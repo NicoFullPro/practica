@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 0.2rem solid black;
+    width: 55rem;
+    text-align: center;
+    margin-top: 10rem;
+    padding: 4rem;
+}
